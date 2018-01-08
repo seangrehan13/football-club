@@ -14,7 +14,7 @@ if ($_SESSION['user_logged_in'] == ''){
     <meta name="author" content="Sean Grehan">
     <meta name="description" content="Website for the local football club">
 
-    <title>Pipe's Football Club</title>
+    <title>Football Club</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
